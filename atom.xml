@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://battlefield.now.sh</id>
     <title>战地1AWSL服务器</title>
-    <updated>2020-06-13T17:25:46.538Z</updated>
+    <updated>2020-06-14T03:23:19.903Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://battlefield.now.sh"/>
     <link rel="self" href="https://battlefield.now.sh/atom.xml"/>
@@ -16,10 +16,10 @@
         <link href="https://battlefield.now.sh/post/hello-gridea/">
         </link>
         <updated>2018-12-11T16:00:00.000Z</updated>
-        <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
+        <summary type="html"><![CDATA[<p><img src="https://battlefield.now.sh/post-images/1592104979922.png" alt="" loading="lazy">👏  欢迎使用 <strong>Gridea</strong> ！<br>
 ✍️  <strong>Gridea</strong> 一个静态博客写作客户端。你可以用它来记录你的生活、心情、知识、笔记、创意... ...</p>
 ]]></summary>
-        <content type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
+        <content type="html"><![CDATA[<p><img src="https://battlefield.now.sh/post-images/1592104979922.png" alt="" loading="lazy">👏  欢迎使用 <strong>Gridea</strong> ！<br>
 ✍️  <strong>Gridea</strong> 一个静态博客写作客户端。你可以用它来记录你的生活、心情、知识、笔记、创意... ...</p>
 <!-- more -->
 <p><a href="https://github.com/getgridea/gridea">Github</a><br>
