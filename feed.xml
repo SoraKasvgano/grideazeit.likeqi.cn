@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>Atri Server</title>
+    <link href="http://atri.awsl.tk/feed.xml" rel="self" />
+    <link href="http://atri.awsl.tk" />
+    <updated>2020-10-12T17:31:20+08:00</updated>
+    <author>
+        <name>Samond</name>
+    </author>
+    <id>http://atri.awsl.tk</id>
+
+    <entry>
+        <title>test</title>
+        <author>
+            <name>Samond</name>
+        </author>
+        <link href="http://atri.awsl.tk/test.html"/>
+        <id>http://atri.awsl.tk/test.html</id>
+
+        <updated>2020-10-12T17:31:20+08:00</updated>
+            <summary>
+                <![CDATA[
+                    test
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>test</p>
+            ]]>
+        </content>
+    </entry>
+</feed>
